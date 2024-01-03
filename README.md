@@ -29,7 +29,7 @@
 
 
 ### 1주차: 그리디 & 구현
-### 그리디
+#### 그리디
 
 - 실전
     - 동빈이의 큰 수의 법칙: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/2.java))
@@ -40,7 +40,7 @@
     - 곱하기 혹은 더하기 (Facebook 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/2.java))
     - [문자열 뒤집기](https://www.acmicpc.net/problem/1439) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/3.java))
 
-### 구현
+#### 구현
 
 - 실전
     - 왕실의 나이트: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/4/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/4/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/4/3.java))
