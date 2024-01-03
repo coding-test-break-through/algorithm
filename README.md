@@ -28,3 +28,24 @@
 <img width="585" alt="스크린샷 2024-01-03 오후 11 10 01" src="https://github.com/coding-test-break-through/algorithm/assets/109015852/af097f91-bff5-494b-9a99-af59b854b6f2">
 
 
+### 1주차: 그리디 & 구현
+### 그리디
+
+- 실전
+    - 동빈이의 큰 수의 법칙: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/2.java))
+    - 숫자 카드게임: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/4.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/4.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/4.java))
+    - 1이 될 때까지: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/6.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/6.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/3/6.java))
+- 기출문제
+    - 모험가 길드 (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/1.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/1.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/1.java))
+    - 곱하기 혹은 더하기 (Facebook 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/2.java))
+    - [문자열 뒤집기](https://www.acmicpc.net/problem/1439) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/11/3.java))
+
+### 구현
+
+- 실전
+    - 왕실의 나이트: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/4/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/4/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/4/3.java))
+    - 게임 개발: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/4/4.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/4/4.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/4/4.java))
+- 기출문제
+    - [럭키 스트레이트](https://www.acmicpc.net/problem/18406) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/1.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/1.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/1.java))
+    - 문자열 재정렬 (Facebook 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/2.java))
+    - [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) (카카오): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/3.java))
