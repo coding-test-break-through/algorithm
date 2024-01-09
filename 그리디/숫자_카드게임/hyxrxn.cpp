@@ -13,9 +13,10 @@ int main() {
         for (int j = 0; j < m; j++) {
             cin >> arr[i][j];
         }
-        sort(arr[i], arr[i] + m);
+        sort(arr[i], arr[i] + m); // 각 행별로 정렬
     }
 
+    // 행의 가장 작은 값 중 가장 큰 값 구하기
     for (int i = 0; i < n; i++) {
         num = num < arr[i][0] ? arr[i][0] : num;
     }

@@ -8,9 +8,9 @@ int main() {
     cin >> n >> k;
 
     while (n != 1) {
-        if (n % k == 0) {
+        if (n % k == 0) { // k의 배수라면 나누기
             n /= k;
-        } else {
+        } else { // 아니라면 빼기
             n -= 1;
         }
         num++;
