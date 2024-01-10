@@ -49,3 +49,19 @@
     - [럭키 스트레이트](https://www.acmicpc.net/problem/18406) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/1.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/1.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/1.java))
     - 문자열 재정렬 (Facebook 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/2.java))
     - [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) (카카오): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/12/3.java))
+ 
+
+
+### 2주차: DFS & BFS
+
+- 실전
+    - 음료수 얼려 먹기: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/5/10.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/5/10.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/5/10.java))
+    - 미로 탈출: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/5/11.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/5/11.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/5/11.java))
+- 연습 문제
+    - [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/1.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/1.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/1.java))
+    - [연구소](https://www.acmicpc.net/problem/14502) (삼성): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/2.java))
+    - [경쟁적 전염](https://www.acmicpc.net/problem/18405) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/3.java))
+    - [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) (카카오): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/4.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/4.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/13/4.java))
+- 백준
+    - [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260)
+    - [11724번: 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
