@@ -65,3 +65,31 @@
 - 백준
     - [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260)
     - [11724번: 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
+ 
+
+### 3주차: 정렬 & 이진 탐색
+#### 정렬
+
+- 실전
+    - 위에서 아래로: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/10.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/10.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/10.java))
+    - 성적이 낮은 순서대로 학생 출력하기: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/11.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/11.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/11.java))
+    - 두 배열의 원소 교체: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/12.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/12.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/12.java))
+- 기출
+    - [국영수](https://www.acmicpc.net/problem/10825) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/1.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/1.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/1.java))
+    - [안테나](https://www.acmicpc.net/problem/18310) (국내 S 교육 기관 선발 평가): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/2.java))
+    - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) (카카오): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/3.java))
+    - [카드 정렬하기](https://www.acmicpc.net/problem/1715) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/4.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/4.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/4.java))
+
+#### 이진 탐색
+
+- 실전
+    - 부품 찾기
+        - 이진 탐색으로 해결: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/5.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/5.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/5.java))
+        - 계수 정렬로 해결: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/6.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/6.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/6.java))
+        - 집합(Set) 자료형으로 해결: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/7.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/7.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/7.java))
+    - 떡볶이 떡 만들기: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/8.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/8.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/8.java))
+- 기출
+    - 정렬된 배열에서 특정 수의 개수 구하기 (Zoho 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/1.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/1.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/1.java))
+    - 고정점 찾기 (Amazon 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/2.java))
+    - [공유기 설치](https://www.acmicpc.net/problem/2110) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/3.java))
+    - [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) (카카오): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/4.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/4.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/4.java))
