@@ -1,15 +1,14 @@
-
-import bisect
+from collections import Counter
 
 n = int(input())
-lst = sorted(map(int, input().split()))
+lst = list(map(int, input().split()))
 m = int(input())
 findings = list(map(int, input().split()))
 
 answer = []
+counter = Counter(lst)
 for f in findings:
-    idx = bisect.bisect_left(lst, f)
-    if 0 <= idx < n and lst[idx] == f:
+    if f in counter:
         answer.append("yes")
     else:
         answer.append("no")
