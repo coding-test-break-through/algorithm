@@ -1,9 +1,12 @@
-from collections import Counter
+import bisect
 
 n, x = map(int, input().split())
-counter = Counter(list(map(int, input().split())))
+lst = list(map(int, input().split()))
 
-if x not in counter:
+left = bisect.bisect_left(lst, x)
+right = bisect.bisect_right(lst, x)
+
+if right == left:
     print(-1)
 else:
-    print(counter[x])
+    print(right - left)
