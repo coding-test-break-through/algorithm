@@ -3,7 +3,7 @@
 ## 규칙
 
 - 화요일 17:59분까지 PR
-- 기한 내에 PR을 보내지 않을 시 벌금 2만원 (회식 비용으로 사용합니다)
+- 기한 내에 PR을 보내지 않을 시 벌금 2만원 (회식 비용으로 사용합니다) / 문제를 일부 풀지 않았을 경우는 2만원 * (안 푼 문제 수 / 전체 문제 수)
 - 회의 때는 문제별 자기 알고리즘 간단하게 소개 + 다음주 문제 선정 + PR Accept
   - 각 챕터의 필수 문제 + 각 챕터별 실전 문제 3개씩을 기본으로 합니다
 - 문제는 [이것이 코딩 테스트다](https://github.com/ndb796/python-for-coding-test) 사용
@@ -93,3 +93,17 @@
     - 고정점 찾기 (Amazon 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/2.java))
     - [공유기 설치](https://www.acmicpc.net/problem/2110) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/3.java))
     - [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) (카카오): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/4.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/4.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/4.java))
+ 
+### 4주차: 다이나믹 프로그래밍
+- 실전
+    - 1로 만들기: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/5.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/5.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/5.java))
+    - 개미 전사: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/6.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/6.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/6.java))
+    - 바닥 공사: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/7.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/7.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/7.java))
+    - 효율적인 화폐 구성: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/8.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/8.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/8.java))
+- 기출
+    - 금광 (Flipkart 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/1.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/1.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/1.java))
+    - [정수 삼각형](https://www.acmicpc.net/problem/1932) (IOI): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/2.java))
+    - [퇴사](https://www.acmicpc.net/problem/14501) (삼성): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/3.java))
+    - [병사 배치하기](https://www.acmicpc.net/problem/18353) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/4.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/4.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/4.java))
+    - 못생긴 수 (Google 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/5.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/5.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/5.java))
+    - 편집 거리 (Goldman Sachs 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/6.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/6.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/6.java))
