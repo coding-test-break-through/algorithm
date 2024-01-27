@@ -3,7 +3,7 @@
 ## 규칙
 
 - 화요일 17:59분까지 PR
-- 기한 내에 PR을 보내지 않을 시 벌금 2만원 (회식 비용으로 사용합니다)
+- 기한 내에 PR을 보내지 않을 시 벌금 2만원 (회식 비용으로 사용합니다) / 문제를 일부 풀지 않았을 경우는 2만원 * (안 푼 문제 수 / 전체 문제 수)
 - 회의 때는 문제별 자기 알고리즘 간단하게 소개 + 다음주 문제 선정 + PR Accept
   - 각 챕터의 필수 문제 + 각 챕터별 실전 문제 3개씩을 기본으로 합니다
 - 문제는 [이것이 코딩 테스트다](https://github.com/ndb796/python-for-coding-test) 사용
@@ -65,3 +65,45 @@
 - 백준
     - [1260번: DFS와 BFS](https://www.acmicpc.net/problem/1260)
     - [11724번: 연결 요소의 개수](https://www.acmicpc.net/problem/11724)
+ 
+
+### 3주차: 정렬 & 이진 탐색
+#### 정렬
+
+- 실전
+    - 위에서 아래로: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/10.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/10.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/10.java))
+    - 성적이 낮은 순서대로 학생 출력하기: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/11.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/11.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/11.java))
+    - 두 배열의 원소 교체: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/12.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/12.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/6/12.java))
+- 기출
+    - [국영수](https://www.acmicpc.net/problem/10825) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/1.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/1.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/1.java))
+    - [안테나](https://www.acmicpc.net/problem/18310) (국내 S 교육 기관 선발 평가): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/2.java))
+    - [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) (카카오): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/3.java))
+    - [카드 정렬하기](https://www.acmicpc.net/problem/1715) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/4.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/4.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/14/4.java))
+
+#### 이진 탐색
+
+- 실전
+    - 부품 찾기
+        - 이진 탐색으로 해결: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/5.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/5.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/5.java))
+        - 계수 정렬로 해결: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/6.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/6.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/6.java))
+        - 집합(Set) 자료형으로 해결: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/7.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/7.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/7.java))
+    - 떡볶이 떡 만들기: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/8.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/8.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/7/8.java))
+- 기출
+    - 정렬된 배열에서 특정 수의 개수 구하기 (Zoho 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/1.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/1.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/1.java))
+    - 고정점 찾기 (Amazon 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/2.java))
+    - [공유기 설치](https://www.acmicpc.net/problem/2110) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/3.java))
+    - [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) (카카오): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/4.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/4.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/15/4.java))
+ 
+### 4주차: 다이나믹 프로그래밍
+- 실전
+    - 1로 만들기: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/5.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/5.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/5.java))
+    - 개미 전사: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/6.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/6.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/6.java))
+    - 바닥 공사: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/7.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/7.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/7.java))
+    - 효율적인 화폐 구성: ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/8.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/8.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/8.java))
+- 기출
+    - 금광 (Flipkart 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/1.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/1.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/1.java))
+    - [정수 삼각형](https://www.acmicpc.net/problem/1932) (IOI): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/2.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/2.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/2.java))
+    - [퇴사](https://www.acmicpc.net/problem/14501) (삼성): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/3.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/3.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/3.java))
+    - [병사 배치하기](https://www.acmicpc.net/problem/18353) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/4.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/4.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/4.java))
+    - 못생긴 수 (Google 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/5.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/5.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/5.java))
+    - 편집 거리 (Goldman Sachs 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/6.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/6.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/6.java))
