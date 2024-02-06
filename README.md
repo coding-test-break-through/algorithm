@@ -107,3 +107,16 @@
     - [병사 배치하기](https://www.acmicpc.net/problem/18353) (핵심 유형): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/4.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/4.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/4.java))
     - 못생긴 수 (Google 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/5.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/5.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/5.java))
     - 편집 거리 (Goldman Sachs 인터뷰 기출): ([Python 3.7 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/6.py) / [C++ 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/6.cpp) / [Java 코드](https://github.com/ndb796/python-for-coding-test/blob/master/16/6.java))
+ 
+### 5주차: 최단 경로
+- 실전
+    - 미래 도시: ([Python 3.7 코드](/9/4.py) / [C++ 코드](/9/4.cpp) / [Java 코드](/9/4.java))
+    - 전보: ([Python 3.7 코드](/9/5.py) / [C++ 코드](/9/5.cpp) / [Java 코드](/9/5.java))
+- 기출
+    - [플로이드](https://www.acmicpc.net/problem/11404) (핵심 유형): ([Python 3.7 코드](/17/1.py) / [C++ 코드](/17/1.cpp) / [Java 코드](/17/1.java))
+    - 정확한 순위 (K 대회 기출): ([Python 3.7 코드](/17/2.py) / [C++ 코드](/17/2.cpp) / [Java 코드](/17/2.java))
+    - 화성 탐사 (ICPC): ([Python 3.7 코드](/17/3.py) / [C++ 코드](/17/3.cpp) / [Java 코드](/17/3.java))
+    - 숨바꼭질 (USACO): ([Python 3.7 코드](/17/4.py) / [C++ 코드](/17/4.cpp) / [Java 코드](/17/4.java))
+- 백준
+    - [1753번: 최단경로](https://www.acmicpc.net/problem/1753)
+    - [1916번: 최소비용 구하기](https://www.acmicpc.net/problem/1916)
