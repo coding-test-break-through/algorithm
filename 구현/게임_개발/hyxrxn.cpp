@@ -26,8 +26,8 @@ int main() {
     while (true) {
         move = false;
         // 네 방향 중 갈 방향 정하기
-        for (int i = 1; i < 4; i++) {
-            int direction = (d + i) % 4; // directiona은 이후에 갈 방향이 가능한지 확인
+        for (int i = 1; i <= 4; i++) {
+            int direction = (d + 4 - i) % 4; // directiona은 이후에 갈 방향이 가능한지 확인
             nx = a + dx[direction];
             ny = b + dy[direction];
             if (map[nx][ny] != 1 && visit[nx][ny] == 0) {
